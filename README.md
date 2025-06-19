@@ -1,0 +1,2 @@
+# ChattyLittleNPC - Burning Crusade English AI Voiceover Pack
+This is an AI-generated English voiceover pack designed for the ChattyLittleNPC addon, specifically tailored for the World of Warcraft: The Burning Crusade expansion. Enhance your in-game experience with immersive AI voiceovers for NPC dialogues and interactions throughout Outland and beyond. Simply install this pack alongside the ChattyLittleNPC addon to bring your Burning Crusade adventures to life.
