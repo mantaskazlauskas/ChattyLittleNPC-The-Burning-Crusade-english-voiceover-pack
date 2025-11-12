@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_The_Burning_Crusade_voiceovers
-local ChattyLittleNpc_The_Burning_Crusade_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_The_Burning_Crusade_voiceovers")
+local ChattyLittleNpc_The_Burning_Crusade_voiceovers = _G["ChattyLittleNpc_The_Burning_Crusade_voiceovers"]
 
 ChattyLittleNpc_The_Burning_Crusade_voiceovers.Voiceovers = {
     '10000_Comp.ogg',
