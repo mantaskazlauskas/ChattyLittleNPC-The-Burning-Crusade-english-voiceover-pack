@@ -1,4 +1,4 @@
-## Interface: 110207, 50502, 40402, 30405, 20504
+## Interface: 110207, 50503, 40402, 30405, 20504
 ## Title: Chatty Little NPC: The Burning Crusade voiceovers
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
