@@ -1,0 +1,8 @@
+package-as: ChattyLittleNpc_The_Burning_Crusade_voiceovers
+ignore:
+  - release.py
+  - README.md
+  - .vscode
+  - .github
+  - .venv
+  - .luarc.json
